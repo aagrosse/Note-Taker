@@ -21,7 +21,7 @@ Note taking interface
 ## Links to Project
 
 ### GitHub
-[note-taker](https://github.com/aagrosse/Note-Taker)
+[Note-Taker](https://github.com/aagrosse/Note-Taker)
 
  ### Heroku
-[note-taker]()
+[Note-Taker](https://arcane-fjord-92161.herokuapp.com/)
